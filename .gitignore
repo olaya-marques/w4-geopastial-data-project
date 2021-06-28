@@ -127,3 +127,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#Proyecto
+client_id.txt
+client_secret.txt
